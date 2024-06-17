@@ -21,6 +21,8 @@ To install, please clone this repository to your computer using the following st
 ## Description
 This is an Express-based note taking program that allows a user to generate lists of notes. The user can create new notes, review old notes, and delete unneeded notes.
 
+Note that this program utilizes UUID to generate unique IDs for each note. For more information on UUID, see [here](https://www.npmjs.com/package/uuid).
+
 ## Usage
 To run the program, navigate into the Note-Taker-Program file and enter "npm start" into your local terminal. Once the program has launched on your local server, navigate to that URL. You will be brought to a home page with a button that says "Get Started."
 
