@@ -26,6 +26,8 @@ Note that this program utilizes UUID to generate unique IDs for each note. For m
 ## Usage
 To run the program, navigate into the Note-Taker-Program file and enter "npm start" into your local terminal. Once the program has launched on your local server, navigate to that URL. You will be brought to a home page with a button that says "Get Started."
 
+Alternatively, please navigate to this live [link](https://note-taker-program-1.onrender.com/) to use the program.
+
 ![Screenshot](assets/screenshots/screenshot1.png)
 
 Click "Get Started," which will bring you to a main page. This page has a section for composing new notes on the right side, and a list of old notes on the left side.
